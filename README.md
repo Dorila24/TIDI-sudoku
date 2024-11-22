@@ -68,8 +68,7 @@
 ## Обзор брут форса
 
 
-
-https://github.com/user-attachments/assets/e37b73bf-6aff-41ec-9d8b-a7fff2c0b99a
+![Запись экрана 2024-11-22 в 03 21 14](https://github.com/user-attachments/assets/301c3c60-01f3-46bd-bff9-eb73c6e59eac)
 
 
 
